@@ -1,0 +1,471 @@
+.vinotinto {
+    background-color: #d9ab00;
+    color: white;
+    height: 100px;
+
+}
+
+img {
+    width: 100%;
+}
+
+.azul {
+    width: 200px;
+    margin-left: 100px;
+    margin-top: 15px;
+}
+
+.lupa {
+    width: 20px;
+    background-color: #00bdc9;
+    padding: 10px;
+}
+
+.flotar {
+    float: left;
+}
+
+ul {
+    list-style: none;
+}
+
+body {
+    margin: 0;
+    font: 1em sans-serif;
+}
+
+
+
+.rojo li {
+    float: left;
+    width: 100px;
+    margin-top: 20px;
+    font-size: 20px;
+}
+
+.rojo {
+    margin-left: 300px;
+    width: 500px;
+    height: 100px;
+}
+
+.verde {
+    padding-top: 28px;
+}
+
+.verde input {
+    height: 38px;
+    border: none;
+    background-color: #fbc301;
+    color: white;
+}
+
+.seccion1 .hijo2 {
+    width: 400px;
+    padding-top: 150px;
+    padding-left: 150px;
+}
+
+.seccion1 {
+    background-color: #fbc302;
+    height: 900px;
+    color: white;
+}
+
+.seccion1 .hijo1 {
+    padding-top: 200px;
+    padding-left: 80px;
+    width: 700px;
+}
+
+.seccion1 h1 {
+    font-size: 70px;
+}
+
+.seccion1 h4 {
+    font-size: 25px;
+}
+
+.seccion1 .boton1 {
+    background-color: #00bdc9;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 3px;
+}
+
+.seccion1 .boton2 {
+    border: 2px solid white;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 3px;
+    margin-left: 20px;
+}
+
+
+
+
+.seccion2 {
+    background-color: white;
+    height: 600px;
+}
+
+.seccion2 .hijo3 {
+    padding-top: 100px;
+    padding-left: 80px;
+    width: 700px;
+}
+
+.seccion2 .hijo4 {
+    padding-top: 100px;
+    padding-left: 80px;
+    width: 700px;
+
+}
+
+.seccion2 .boton3 {
+    color: white;
+    background-color: #fbc301;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 3px;
+}
+
+.hijo3 h1 {
+    font-size: 50px;
+}
+
+.hijo4 p {
+    font-size: 17px;
+}
+
+.seccion2 .hijo4 {
+    width: 500px;
+}
+
+.seccion2 h3 {
+    text-align: start;
+}
+
+
+
+.seccion3 {
+    background-color: #fcc302;
+    color: white;
+    height: 900px;
+    text-align: center;
+}
+
+.seccion3 .seccion3padre {
+    padding-top: 50px;
+}
+
+.seccion3padre p {
+    padding-bottom: 40px;
+}
+
+.carta1 {
+    padding-left: 110px;
+}
+
+.carta2 {
+    margin-left: 70px;
+}
+
+.carta3 {
+    margin-left: 70px;
+}
+
+.seccion3padre h1 {
+    font-size: 45px;
+}
+
+.seccion3padre p {
+    font-size: 25px;
+}
+
+
+
+
+.seccion4 {
+    background-color: white;
+    height: 720px;
+}
+
+.seccion4 .hijo5 {
+    padding-top: 100px;
+    padding-left: 80px;
+    width: 600px;
+}
+
+.seccion4 .hijo6 {
+    padding-top: 100px;
+    padding-left: 80px;
+    width: 600px;
+
+}
+
+.seccion4 .boton4 {
+    color: white;
+    margin-left: 400px;
+    background-color: #fbc301;
+    padding-left: 50px;
+    padding-right: 40px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-radius: 5px;
+
+
+}
+
+.hijo6 h1 {
+    text-align: end;
+    margin-top: 100px;
+    font-size: 37px;
+}
+
+.hijo6 h5 {
+    text-align: end;
+    font-size: 20px;
+}
+
+
+
+
+.seccion5 {
+    background-color: #fcc302;
+    color: white;
+    height: 900px;
+    text-align: center;
+}
+.raya{
+    text-decoration: line-through;
+}
+
+.seccion5 .seccion5padre {
+    padding-top: 50px;
+}
+
+.seccion5padre h1 {
+    font-size: 50px;
+}
+
+.seccion5padre h4 {
+    font-size: 20px;
+    padding-bottom: 50px;
+}
+
+.carta4 {
+    font-size: 20px;
+    margin-left: 150px;
+}
+
+.carta5 {
+    font-size: 20px;
+    margin-left: 70px;
+}
+
+.carta6 {
+    font-size: 20px;
+    margin-left: 70px;
+}
+
+.precios {
+    margin-top: 30px;
+    margin-left: 60px;
+    width: 200px;
+}
+
+.seccion5 .boton5 {
+    color: white;
+    margin-top: 10px;
+    margin-left: 40px;
+    background-color: #00bdc9;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 20px;
+}
+
+
+
+
+.seccion6 {
+    background-color: white;
+    height: 800px;
+    text-align: center;
+}
+
+.seccion6 .seccion6padre {
+    padding-top: 10px;
+}
+
+.seccion6padre h1 {
+    font-size: 50px;
+}
+
+.logos {
+    margin-top: 30px;
+    margin-left: 100px;
+    width: 200px;
+}
+
+.carta13 {
+    margin-left: 150px;
+}
+
+.carta14 {
+    margin-left: 70px;
+}
+
+.carta1 {
+    margin-left: 70px;
+}
+
+
+
+
+.seccion7 {
+    background-color: #fcc302;
+    color: white;
+    height: 500px;
+}
+
+.numeros {
+    text-align: center;
+}
+
+.carta7 {
+    margin-left: 250px;
+    margin-top: 150px;
+}
+
+.carta8 {
+    margin-left: 300px;
+    margin-top: 120px;
+}
+
+.carta9 {
+    margin-left: 300px;
+    margin-top: 150px;
+}
+
+
+
+
+.seccion8 {
+    background-color: white;
+    height: 900px;
+    text-align: center;
+}
+
+.seccion8 .seccion8padre {
+    padding-top: 50px;
+}
+
+.carta10 {
+    text-align: start;
+    width: 280px;
+    margin-left: 280px;
+
+}
+
+.carta10 h6 {
+    color: #00bec9;
+}
+
+.carta10 h5 {
+    color: #00bec9;
+}
+
+.carta11 {
+    text-align: start;
+    width: 300px;
+    margin-left: 30px;
+
+}
+
+.carta11 h6 {
+    color: #00bec9;
+}
+
+.carta11 h5 {
+    color: #00bec9;
+}
+
+.carta12 {
+    text-align: start;
+    width: 300px;
+    margin-left: 30px;
+
+}
+
+.carta12 h6 {
+    color: #00bec9;
+}
+
+.carta12 h5 {
+    color: #00bec9;
+}
+
+.seccion8 h1 {
+    font-size: 50px;
+}
+
+.seccion8 p {
+    font-size: 20px;
+}
+
+
+
+
+.seccion9 {
+    background-color: #333333;
+    color: white;
+    height: 600px;
+    
+}
+.seccion9padre{
+    display: flex;
+}
+.fondo10 {
+    background-color: #daac00;
+    width: 400px;
+    height: 60px;
+}
+.fondo11 {
+    height: 60px;
+    width: 60px;
+    background: #00bdc9;  
+}
+.hijo7{
+    font-size: 20px;
+    margin-left: 90px;
+    margin-top: 150px;
+}
+.hijo8{
+    font-size: 20px;
+    margin-left: 150px;
+    margin-top: 150px;
+}
+.hijo9{
+    font-size: 25px;
+    margin-left: 200px;
+    margin-top: 150px;
+    text-align: end;
+}
+.logos2{
+    margin-left: 10px;
+    margin-top: 30px;
+    float: left;
+    width: 35px;
+}
+.final{
+    margin-left: 270px;
+}
